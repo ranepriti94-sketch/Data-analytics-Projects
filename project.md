@@ -1,5 +1,8 @@
 Coffee Shop Sales Analysis Dashboard (Excel)
 
+
+##Dataset used
+- <a href="https://github.com/ranepriti94-sketch/Data-analytics-Projects/blob/main/Coffee_Shop_Sales.xlsx"> Dataset view</a>
 📌 Project Overview
 This is a personal data analytics project created in Microsoft Excel to analyze coffee shop sales data through an interactive dashboard.
 The dashboard helps understand sales trends, product performance, and store-wise revenue insights.
@@ -12,8 +15,14 @@ Compare sales across store locations
 Track sales trends by day, month, and hour
 Create an interactive dashboard using Excel
 
-📊 Dashboard Features
+Dashboard View
+-< dashboard <a href="https://github.com/ranepriti94-sketch/Data-analytics-Projects/blob/main/Screenshot%202026-04-10%20143109.png"> Dashboard View</a>
 
+Dashboard view
+  <img width="1315" height="563" alt="Screenshot 2026-04-10 143109" src="https://github.com/user-attachments/assets/96c08d40-14ef-43b1-8374-27d84e478fac" />
+
+
+📊 Dashboard Features
 Total Sales Revenue
 Total Transactions
 Average Sale per Transaction
